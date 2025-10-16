@@ -11,7 +11,7 @@ var http = require("http");
        <!DOCTYPE html>
        <html>
        <head>
-         <title>My Page</title>a
+         <title>My Page</title>
        </head>
        <body>
          <h1>Student no.33782985</h1>
@@ -26,6 +26,7 @@ var http = require("http");
            <li>Singing</li>
            <li>Playing Video Games</li>
            <li>Making Music</li>
+           <li>Cooking Korean food</li>
          </ul>
 
        </body>
